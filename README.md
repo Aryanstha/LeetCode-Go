@@ -1,2 +1,1 @@
-# B'Tana
- Ecommerce Frontend of  B'Tanan Official
+Golang solution for leetcode.
